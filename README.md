@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @to8yr
 - 👀 I’m interested in Structural & Mechanical Engineering, Fitness, Investing, Finance and Business. 
-- 🌱 I’m currently learning Python OOP for applications of Structural Engineering in the Temporary Works field located in the UK.
+- 🌱 I’m currently learning Python OOP for applications of Structural Engineering in the Temporary Works industry.
 - 💞️ I’m looking to collaborate on Structural Engineering projects.
 - 📫 How to reach me toby@lev3l.co.uk
 - 😄 Pronouns: He/They
