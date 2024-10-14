@@ -13,6 +13,11 @@ An enthusiastic Engineer aspiring to drive forward the construction industry and
 - Creation of an open-source [Python library](https://github.com/to8yr/roof) for analysis and material list generation of Temporary Roofs; with the goal of developing a fully featured web app. 
 - Study of European [Structural](https://knowledge.bsigroup.com/products/eurocode-basis-of-structural-and-geotechnical-design?version=standard) & [Quality](https://www.bsigroup.com/en-GB/capabilities/quality-management/iso-9001-quality-management-systems/) Standards
 - Business, Finance, and Law for Engineers
+
+<details open>
+<summary>CV</summary>
+<br>
+
 ## Experience
 ### Technical Manager, [Lev3l Products](https://lev3l.co.uk/), Feb 24 - Present
 - Co-founder of a new company with the vision of designing innovative, intuitive, and safe products for the construction industry. 
@@ -76,3 +81,5 @@ Continue to train following graduation from my university swimming team.
 I've made fitness a part of my daily routine and am interested in exploring various aspects of nutrition.
 ### Investing, Economics & Finance
 I'm passionate about understanding economic trends and their impact on financial markets, which has fueled my interest in investing and personal finance management.
+
+</details>
