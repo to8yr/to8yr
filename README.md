@@ -5,6 +5,7 @@ An enthusiastic Engineer aspiring to drive forward the construction industry and
 - 👀 I’m interested in Structural & Mechanical Engineering, Fitness, Investing, Finance and Business. 
 - 📫 How to reach me: tobyralph@icloud.com
 - ⚡ Fun fact: I'm a graduate from The University of Sheffield
+- 💬 Favorite quote: "Success is one of the possible outcomes. The probability is uncertain" - Elon Musk
 
 ![](DJI_0042.JPG)
 
