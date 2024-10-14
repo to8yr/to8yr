@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning Python OOP for applications of Structural Engineering in the Temporary Works industry.
 - 📫 How to reach me tobyralph@icloud.com
 - ⚡ Fun fact: I'm a graduate from The University of Sheffield
+
+![](DJI_0042.JPG)
+
 ## CPD
 - Creation of an open-source [Python library](https://github.com/to8yr/roof) for analysis and material list generation of Temporary Roofs; with the goal of developing a fully featured web app. 
 - Study of European [Structural](https://knowledge.bsigroup.com/products/eurocode-basis-of-structural-and-geotechnical-design?version=standard) & [Quality](https://www.bsigroup.com/en-GB/capabilities/quality-management/iso-9001-quality-management-systems/) Standards
@@ -64,6 +67,8 @@ Proficient in Python with experience using MATLAB, Rust, Excel VB and JavaScript
 Fluent in various CAD software namely Fusion, AutoCAD, SketchUp, Ansys and Blender. 
 ### Structural Analysis
 Experienced using various structural analysis software such as SkyCiv S3D & API, Advance Design, Fusion, Ansys and OpenSees. Recently ventured with my own programming knowledge to develop my own 3D Frame analysis tool in Python.
+### Licenced Drone Operator
+Provide photography and photogrammerty to Lev3l's partners.
 ## Hobbies & Interests
 ### Swimming
 Continue to train following graduation from my university swimming team. 
