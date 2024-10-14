@@ -14,12 +14,12 @@
 - Study of European [Structural](https://knowledge.bsigroup.com/products/eurocode-basis-of-structural-and-geotechnical-design?version=standard) & [Quality](https://www.bsigroup.com/en-GB/capabilities/quality-management/iso-9001-quality-management-systems/) Standards
 - Business, Finance, and Law for Engineers
 ## Experience
-### Technical Manager, [Lev3l Products]([lev3l.co.uk](https://lev3l.co.uk/)), Feb 24 - Present
+### Technical Manager, [Lev3l Products](https://lev3l.co.uk/), Feb 24 - Present
 - Co-founder of new company with the vision of designing innovative, intuitive, and safe products for the construction industry. 
 - Development and maintance of aluminium truss technical infomation.
 - Custom hanging bracket design, analysis and testing for hanging scaffolding from the underside of a bridge. 
 - Relationship building with Suppliers across the world and creation of supply-chain cost analysis tool. 
-### Graduate Engineer, [Altrad DESSA]([www.altrad-dessa.com](https://www.altrad-dessa.com/)), Oct 22 - Feb 24
+### Graduate Engineer, [Altrad DESSA](https://www.altrad-dessa.com/), Oct 22 - Feb 24
 - Led the development of structural calculations for a new roofing system for the events industry. Advanced my knowledge of aluminium and steel truss design.
 - Created and implemented technical report templates following attendance of a course delivered by the IMechE.
 - Travelled to the UAE to delivery a technical presentation teaching a group of engineers the structural analysis of temporary roofs and AutoCAD dynamic block creation. 
