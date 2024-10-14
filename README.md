@@ -9,6 +9,6 @@ An enthusiastic Engineer aspiring to drive forward the construction industry and
 ![](DJI_0042.JPG)
 
 ## 🌱 CPD
-- Creation of an open-source [Python library](https://github.com/to8yr/roof) for analysis and material list generation of Temporary Roofs; with the goal of developing a fully featured web application. 
+- Creation of an open-source [Python library](https://github.com/to8yr/roof) for analysis and material list generation of Temporary Roofs to develop a fully featured web application. 
 - Study of European [Structural](https://knowledge.bsigroup.com/products/eurocode-basis-of-structural-and-geotechnical-design?version=standard) & [Quality](https://www.bsigroup.com/en-GB/capabilities/quality-management/iso-9001-quality-management-systems/) Standards
 - Business, Finance, and Law for Engineers
