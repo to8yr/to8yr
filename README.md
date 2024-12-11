@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Toby Ralph.
 An enthusiastic Engineer aspiring to drive forward the construction industry and inspire others to pursue a career in STEM. 
 ## About me
-- 🧑🏻‍💻 Technical Manager at [Lev3l Products](lev3l.co.uk)
+- 🧑🏻‍💻 Head of Engineering at [Lev3l Products](lev3l.co.uk)
 - 👀 I’m interested in Structural & Mechanical Engineering, Fitness, Investing, Finance and Business. 
-- 📫 How to reach me: tobyralph@icloud.com
-- ⚡ Fun fact: I'm a graduate from The University of Sheffield
+- 📫 How to reach me: toby@lev3l.co.uk
+- ⚡ Fun fact: I'm a graduate from The University of Sheffield!
 - 💬 Favorite quote: "Success is one of the possible outcomes. The probability is uncertain" - Elon Musk
 
 ![](DJI_0042.JPG)
