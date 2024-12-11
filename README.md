@@ -7,7 +7,7 @@ An enthusiastic Engineer aspiring to drive forward the construction industry and
 - ⚡ Fun fact: I'm a graduate from The University of Sheffield!
 - 💬 Favorite quote: "Success is one of the possible outcomes. The probability is uncertain" - Elon Musk
 
-![](DJI_0042.JPG)
+![HS2](DJI_0042.JPG)
 
 ## 🌱 CPD
 - Creation of an open-source [Python library](https://github.com/to8yr/roof) for analysis and material list generation of Temporary Roofs to develop a fully featured web application. 
