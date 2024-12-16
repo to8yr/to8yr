@@ -7,7 +7,7 @@
 ### Graduate Engineer, [Altrad DESSA](https://www.altrad-dessa.com/), Oct 22 - Feb 24
 - Led the development of structural calculations for a new roofing system for the events industry. Advanced my knowledge of aluminium and steel truss design.
 - Created and implemented technical report templates following attendance of a course delivered by the IMechE.
-- Travelled to the UAE to delivery a technical presentation teaching a group of engineers the structural analysis of temporary roofs and AutoCAD dynamic block creation. 
+- Travelled to the UAE to deliver a technical presentation teaching a group of engineers the structural analysis of temporary roofs and AutoCAD dynamic block creation. 
 ### Final Year Project, Sep 21 - May 22
 - Titled “Compressive behaviour of 3D printed thermoplastic polyurethane lattices for Athletic midsoles”. 
 - Learnt to research effectively, compress information, solve problems, and present my findings infront of an audience. 
