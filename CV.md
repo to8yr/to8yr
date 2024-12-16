@@ -1,5 +1,5 @@
 ## Experience
-### Technical Manager, [Lev3l Products](https://lev3l.co.uk/), Feb 24 - Present
+### Head of Engineering, [Lev3l Products](https://lev3l.co.uk/), Feb 24 - Present
 - Co-founder of new company with the vision of designing innovative, intuitive, and safe products for the construction industry. 
 - Development and maintance of aluminium truss technical infomation.
 - Custom hanging bracket design, analysis and testing for hanging scaffolding from the underside of a bridge. 
