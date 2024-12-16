@@ -39,10 +39,10 @@ Achieved Second Class Division One (2:1) - Accredited by The Institution of Mech
 - Design of Structures, Machines and Systems
 - Manufacturing systems
 ### A-levels, Francis Combe Academy Sep 17 - Jul 19
-- Mathematics (A)
-- Physics (A)
-- Chemistry (B)
-- Further Mathematics (C)
+- Mathematics
+- Physics
+- Chemistry
+- Further Mathematics
 ## Skills
 ### Adept learner
 I'm passionate about my continuous improvement and enjoy pushing myself to new heights.
