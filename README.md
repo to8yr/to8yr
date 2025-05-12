@@ -11,4 +11,7 @@ An enthusiastic Engineer aspiring to drive forward the construction industry and
 - Writing understandable user guides for LEV3L and including technical sections that explain and provide further reading resources for those interested in the analysis of temporary roof structures. 
 - Ongoing study of European Quality and Structural standards
 - Business, Finance, and Law for Engineers
+
+# Featured projects
 ![HS2](DJI_0042.JPG)
+![Gade](Gade_2.jpg)
