@@ -5,11 +5,11 @@ An enthusiastic Engineer aspiring to drive forward the construction industry and
 - 👀 I’m interested in Structural & Mechanical Engineering, Fitness, Investing, Finance and Business. 
 - 📫 How to reach me: toby@lev3l.co.uk
 - ⚡ Fun fact: I'm a graduate from The University of Sheffield!
-- 💬 Favorite quote: "Success is one of the possible outcomes. The probability is uncertain" - Elon Musk
+- 💬 Favourite quote: "Success is one of the possible outcomes. The probability is uncertain" - Elon Musk
 
 ![HS2](DJI_0042.JPG)
 
 ## 🌱 CPD
-- Creation of an open-source [Python library](https://github.com/to8yr/roof) for analysis and material list generation of Temporary Roofs to develop a fully featured web application. 
-- Study of European [Structural](https://knowledge.bsigroup.com/products/eurocode-basis-of-structural-and-geotechnical-design?version=standard) & [Quality](https://www.bsigroup.com/en-GB/capabilities/quality-management/iso-9001-quality-management-systems/) Standards
+- Study of [Rust-lang](https://www.rust-lang.org/) for developing a [finite stiffness method](https://en.wikipedia.org/wiki/Direct_stiffness_method#:~:text=The%20direct%20stiffness%20method%20is,elements%20interconnected%20at%20the%20nodes.) solver for use in the LEV3L Roof web application. This will allow users to define input parameters and automatically generate a preliminary structural report for increased efficiency and accurate quotation. 
+- Ongoing study of European Quality and Structural standards
 - Business, Finance, and Law for Engineers
