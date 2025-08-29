@@ -14,4 +14,3 @@ An enthusiastic Engineer aspiring to drive forward the construction industry and
 
 # Featured projects
 ![HS2](DJI_0042.JPG)
-![Gade](Gade_2.jpg)
